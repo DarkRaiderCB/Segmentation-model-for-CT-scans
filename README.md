@@ -49,9 +49,9 @@ The preprocessing pipeline involves:
 
 Below is an embedded animation video that demonstrates the segmented organs. This visualization helps in qualitatively assessing the model's performance and provides insights into the segmentation quality.
 
-![3D Visualization Video 1](https://drive.google.com/file/d/1B87M4YHVxkC3hcJq5X9aWpALtMk4A8AL/view?usp=drive_link)
+[3D Visualization Video 1](https://drive.google.com/file/d/1B87M4YHVxkC3hcJq5X9aWpALtMk4A8AL/view?usp=drive_link)
 
-![3D Visualization Video 2](https://drive.google.com/file/d/1pSawp8AzUd50BeWpRc8gXomLC6p_clkj/view?usp=drive_link)
+[3D Visualization Video 2](https://drive.google.com/file/d/1pSawp8AzUd50BeWpRc8gXomLC6p_clkj/view?usp=drive_link)
 
 ## Setup Instructions
 
